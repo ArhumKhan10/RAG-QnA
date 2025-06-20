@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+pandas
+sentence-transformers
+fastembed
+qdrant-client
+langchain-google-genai
+langchain-core
+torch
+numpy
+tqdm
