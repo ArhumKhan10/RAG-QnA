@@ -1,2 +1,3 @@
 data/cnn_dailymail_train_1000.json
 data/cnn_dailymail_train_1000_articles.csv
+.env
