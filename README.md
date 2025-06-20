@@ -113,7 +113,3 @@ Try asking questions like:
 - Built with [Streamlit](https://streamlit.io/), [Qdrant](https://qdrant.tech/), [Sentence Transformers](https://www.sbert.net/), [ColBERT](https://colbert-ai.github.io/), and [Google Gemini](https://ai.google.dev/gemini-api).
 
 ---
-
-## 📢 License
-
-Add your license information here.
