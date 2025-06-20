@@ -30,10 +30,6 @@ pip install -r requirements.txt
 
 ### 3. Configure Environment Variables
 
-- Copy `.env.example` to `.env`:
-  ```bash
-  cp .env.example .env
-  ```
 - Fill in your actual API keys for `GOOGLE_API_KEY` and `QDRANT_API_KEY` in the `.env` file.
 
 ### 4. Run the Streamlit App
